@@ -1,0 +1,6 @@
+#Fri, 16 Dec 2016 06:08:16 +0530
+
+info.app.version=0.1
+info.app.name=NewOAuth1
+grails.env=development
+info.app.grailsVersion=3.1.10
